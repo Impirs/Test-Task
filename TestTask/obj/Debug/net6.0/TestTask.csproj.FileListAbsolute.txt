@@ -1,0 +1,15 @@
+D:\IwantToCode\C#\TestTask\bin\Debug\net6.0\TestTask.exe
+D:\IwantToCode\C#\TestTask\bin\Debug\net6.0\TestTask.deps.json
+D:\IwantToCode\C#\TestTask\bin\Debug\net6.0\TestTask.runtimeconfig.json
+D:\IwantToCode\C#\TestTask\bin\Debug\net6.0\TestTask.dll
+D:\IwantToCode\C#\TestTask\bin\Debug\net6.0\TestTask.pdb
+D:\IwantToCode\C#\TestTask\obj\Debug\net6.0\TestTask.csproj.AssemblyReference.cache
+D:\IwantToCode\C#\TestTask\obj\Debug\net6.0\TestTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\IwantToCode\C#\TestTask\obj\Debug\net6.0\TestTask.AssemblyInfoInputs.cache
+D:\IwantToCode\C#\TestTask\obj\Debug\net6.0\TestTask.AssemblyInfo.cs
+D:\IwantToCode\C#\TestTask\obj\Debug\net6.0\TestTask.csproj.CoreCompileInputs.cache
+D:\IwantToCode\C#\TestTask\obj\Debug\net6.0\TestTask.dll
+D:\IwantToCode\C#\TestTask\obj\Debug\net6.0\refint\TestTask.dll
+D:\IwantToCode\C#\TestTask\obj\Debug\net6.0\TestTask.pdb
+D:\IwantToCode\C#\TestTask\obj\Debug\net6.0\TestTask.genruntimeconfig.cache
+D:\IwantToCode\C#\TestTask\obj\Debug\net6.0\ref\TestTask.dll
