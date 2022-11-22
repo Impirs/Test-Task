@@ -1,4 +1,4 @@
-<h1 align="center">Test Task №1</h1>
+<h1 align="center">Test Task</h1>
 
 ## Оглавление:
 1. [Класс Scalculator](#Класс-Scalculator)
